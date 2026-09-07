@@ -1,0 +1,15 @@
+{
+	"name": "adfjimmyservice",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b62a9989-0b97-4873-a492-89b689c92363",
+		"tenantId": "a8f03817-ff73-41ca-b2f3-99141c76ac30"
+	}
+}
